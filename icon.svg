@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="116" fill="#FFFFFF"/>
+  <!-- נקודה: משימה שממתינה -->
+  <circle cx="132" cy="150" r="40" fill="#E2445C"/>
+  <!-- קפסולה קצרה + קפסולה ארוכה = וי של משימה שבוצעה -->
+  <line x1="132" y1="290" x2="212" y2="370" stroke="#FDAB3D" stroke-width="80" stroke-linecap="round"/>
+  <line x1="212" y1="370" x2="384" y2="150" stroke="#00C875" stroke-width="80" stroke-linecap="round"/>
+</svg>
